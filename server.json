@@ -1,0 +1,406 @@
+{
+  "tags": [
+    {
+      "title": "React",
+      "amountOfVideos": "2",
+      "slug": "Old",
+      "id": "0869"
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": "5",
+      "slug": "Old",
+      "id": "452f"
+    },
+    {
+      "title": "Web Development",
+      "amountOfVideos": "3",
+      "slug": "Old",
+      "id": "9089"
+    },
+    {
+      "title": "Data Science",
+      "amountOfVideos": "4",
+      "slug": "Old",
+      "id": "5b7f"
+    },
+    {
+      "title": "Machine Learning",
+      "amountOfVideos": "8",
+      "slug": "Old",
+      "id": "7382"
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": "7",
+      "slug": "Old",
+      "id": "1701"
+    },
+    {
+      "title": "UI/UX Design",
+      "amountOfVideos": "6",
+      "slug": "Old",
+      "id": "c103"
+    },
+    {
+      "title": "SEO Optimization",
+      "amountOfVideos": "3",
+      "slug": "Old",
+      "id": "7939"
+    },
+    {
+      "title": "Graphic Design",
+      "amountOfVideos": "5",
+      "slug": "Old",
+      "id": "5b45"
+    },
+    {
+      "title": "Social Media Marketing",
+      "amountOfVideos": "4",
+      "slug": "Old",
+      "id": "5717"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "amountOfVideos": "6",
+      "slug": "Old",
+      "id": "fc06"
+    },
+    {
+      "title": "Mobile App Development",
+      "amountOfVideos": "7",
+      "slug": "Old",
+      "id": "2b99"
+    },
+    {
+      "title": "Blockchain",
+      "amountOfVideos": "2",
+      "slug": "Old",
+      "id": "e2fb"
+    },
+    {
+      "title": "Cybersecurity",
+      "amountOfVideos": "5",
+      "slug": "Old",
+      "id": "e87d"
+    },
+    {
+      "title": "Cloud Computing",
+      "amountOfVideos": "3",
+      "slug": "Old",
+      "id": "d89f"
+    },
+    {
+      "title": "Big Data",
+      "amountOfVideos": "4",
+      "slug": "Old",
+      "id": "63b4"
+    },
+    {
+      "title": "Game Development",
+      "amountOfVideos": "6",
+      "slug": "Old",
+      "id": "aab6"
+    },
+    {
+      "title": "Internet of Things (IoT)",
+      "amountOfVideos": "3",
+      "slug": "Old",
+      "id": "81d3"
+    },
+    {
+      "title": "Virtual Reality (VR)",
+      "amountOfVideos": "2",
+      "slug": "Old",
+      "id": "a7d1"
+    },
+    {
+      "title": "Augmented Reality (AR)",
+      "amountOfVideos": "4",
+      "slug": "Old",
+      "id": "e68c"
+    },
+    {
+      "title": "React",
+      "amountOfVideos": "2",
+      "slug": "Old",
+      "id": "ec11"
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": "5",
+      "slug": "Old",
+      "id": "1d18"
+    },
+    {
+      "title": "Web Development",
+      "amountOfVideos": "3",
+      "slug": "Old",
+      "id": "4803"
+    },
+    {
+      "title": "Data Science",
+      "amountOfVideos": "4",
+      "slug": "Old",
+      "id": "bfd5"
+    },
+    {
+      "title": "Machine Learning",
+      "amountOfVideos": "8",
+      "slug": "Old",
+      "id": "07ee"
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": "7",
+      "slug": "Old",
+      "id": "95ac"
+    },
+    {
+      "title": "UI/UX Design",
+      "amountOfVideos": "6",
+      "slug": "Old",
+      "id": "70e0"
+    },
+    {
+      "title": "SEO Optimization",
+      "amountOfVideos": "3",
+      "slug": "Old",
+      "id": "b65c"
+    },
+    {
+      "title": "Graphic Design",
+      "amountOfVideos": "5",
+      "slug": "Old",
+      "id": "0d13"
+    },
+    {
+      "title": "Social Media Marketing",
+      "amountOfVideos": "4",
+      "slug": "Old",
+      "id": "8f4e"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "amountOfVideos": "6",
+      "slug": "Old",
+      "id": "fbb4"
+    },
+    {
+      "title": "Mobile App Development",
+      "amountOfVideos": "7",
+      "slug": "Old",
+      "id": "7725"
+    },
+    {
+      "title": "Blockchain",
+      "amountOfVideos": "2",
+      "slug": "Old",
+      "id": "2c7f"
+    },
+    {
+      "title": "Cybersecurity",
+      "amountOfVideos": "5",
+      "slug": "Old",
+      "id": "49e0"
+    },
+    {
+      "title": "Cloud Computing",
+      "amountOfVideos": "3",
+      "slug": "Old",
+      "id": "5a09"
+    },
+    {
+      "title": "Big Data",
+      "amountOfVideos": "4",
+      "slug": "Old",
+      "id": "461e"
+    },
+    {
+      "title": "Game Development",
+      "amountOfVideos": "6",
+      "slug": "Old",
+      "id": "043b"
+    },
+    {
+      "title": "Internet of Things (IoT)",
+      "amountOfVideos": "3",
+      "slug": "Old",
+      "id": "3919"
+    },
+    {
+      "title": "Virtual Reality (VR)",
+      "amountOfVideos": "2",
+      "slug": "Old",
+      "id": "8b0b"
+    },
+    {
+      "title": "Augmented Reality (AR)",
+      "amountOfVideos": "4",
+      "slug": "Old",
+      "id": "6345"
+    },
+    {
+      "title": "React",
+      "amountOfVideos": "2",
+      "slug": "Old",
+      "id": "2b3a"
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": "5",
+      "slug": "Old",
+      "id": "596d"
+    },
+    {
+      "title": "Web Development",
+      "amountOfVideos": "3",
+      "slug": "Old",
+      "id": "f4a2"
+    },
+    {
+      "title": "Data Science",
+      "amountOfVideos": "4",
+      "slug": "Old",
+      "id": "b593"
+    },
+    {
+      "title": "Machine Learning",
+      "amountOfVideos": "8",
+      "slug": "Old",
+      "id": "a9de"
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": "7",
+      "slug": "Old",
+      "id": "5fd2"
+    },
+    {
+      "title": "UI/UX Design",
+      "amountOfVideos": "6",
+      "slug": "Old",
+      "id": "2d22"
+    },
+    {
+      "title": "SEO Optimization",
+      "amountOfVideos": "3",
+      "slug": "Old",
+      "id": "4e44"
+    },
+    {
+      "title": "Graphic Design",
+      "amountOfVideos": "5",
+      "slug": "Old",
+      "id": "2ad6"
+    },
+    {
+      "title": "Social Media Marketing",
+      "amountOfVideos": "4",
+      "slug": "Old",
+      "id": "c615"
+    },
+    {
+      "title": "Artificial Intelligence",
+      "amountOfVideos": "6",
+      "slug": "Old",
+      "id": "e0e7"
+    },
+    {
+      "title": "Mobile App Development",
+      "amountOfVideos": "7",
+      "slug": "Old",
+      "id": "605c"
+    },
+    {
+      "title": "Blockchain",
+      "amountOfVideos": "2",
+      "slug": "Old",
+      "id": "c875"
+    },
+    {
+      "title": "Cybersecurity",
+      "amountOfVideos": "5",
+      "slug": "Old",
+      "id": "36cd"
+    },
+    {
+      "title": "Cloud Computing",
+      "amountOfVideos": "3",
+      "slug": "Old",
+      "id": "8a0c"
+    },
+    {
+      "title": "Big Data",
+      "amountOfVideos": "4",
+      "slug": "Old",
+      "id": "6786"
+    },
+    {
+      "title": "Game Development",
+      "amountOfVideos": "6",
+      "slug": "Old",
+      "id": "5614"
+    },
+    {
+      "title": "Internet of Things (IoT)",
+      "amountOfVideos": "3",
+      "slug": "Old",
+      "id": "c69e"
+    },
+    {
+      "title": "Virtual Reality (VR)",
+      "amountOfVideos": "2",
+      "slug": "Old",
+      "id": "974b"
+    },
+    {
+      "title": "Augmented Reality (AR)",
+      "amountOfVideos": "4",
+      "slug": "Old",
+      "id": "01e8"
+    },
+    {
+      "id": "7dd9",
+      "title": "agora ta tudo na bala",
+      "slug": "agora-ta-tudo-na-bala",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "8156",
+      "title": "teste de loading",
+      "slug": "teste-de-loading",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "aefb",
+      "title": "teste de loading",
+      "slug": "teste-de-loading",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "74a6",
+      "title": "teste de loading",
+      "slug": "teste-de-loading",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "2331",
+      "title": "teste mutation async",
+      "slug": "teste-mutation-async",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "ba63",
+      "title": "agora foi atualizadinho",
+      "slug": "agora-foi-atualizadinho",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "f6ae",
+      "title": "agora vai",
+      "slug": "agora-vai",
+      "amountOfVideos": 0
+    }
+  ]
+}
